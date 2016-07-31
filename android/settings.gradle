@@ -1,0 +1,3 @@
+rootProject.name = 'mygrid'
+
+include ':app'
